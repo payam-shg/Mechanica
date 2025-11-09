@@ -39,7 +39,7 @@
 
 - [Node.js](https://nodejs.org/en/download) نسخه 14 یا بالاتر
 - npm یا yarn
-### 1- [دانلود](/releases)
+### 1- [دانلود](https://github.com/payam-shg/Mechanica/releases)
 
 ### 2- ساخت محلی
 
@@ -206,6 +206,7 @@ DB_WIKI_COL=wiki_url        # نام ستون ویکی
 ---
 
 ⭐ اگر این پروژه برایتان مفید بود، یک ستاره بدهید!
+
 
 
 
