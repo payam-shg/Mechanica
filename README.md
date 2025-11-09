@@ -39,8 +39,9 @@
 
 - [Node.js](https://nodejs.org/en/download) نسخه 14 یا بالاتر
 - npm یا yarn
+### 1- [دانلود](github.com/payam-shg/Mechanica/releases/tag/دانشنامه_مهندسی_مکانیک)
 
-### مراحل نصب
+### 2- ساخت محلی
 
 1. کلون کردن مخزن:
 ```bash
@@ -205,5 +206,6 @@ DB_WIKI_COL=wiki_url        # نام ستون ویکی
 ---
 
 ⭐ اگر این پروژه برایتان مفید بود، یک ستاره بدهید!
+
 
 
