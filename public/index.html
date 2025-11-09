@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>دانشنامه مهندسی مکانیک</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <header class="header">
+    <h1>مکانیکا</h1>
+    <small>دانشنامه مهندسی مکانیک</small>
+  </header>
+
+  <main class="layout">
+    <aside class="sidebar">
+      <div class="sidebar-search">
+        <img class="icon-img" src="/icons/ic1.ico" alt="" aria-hidden="true" />
+        <div class="search-input-wrapper">
+          <input id="searchInput" class="ltr" type="text" placeholder="Search vocabulary..." />
+          <button id="clearSearchBtn" class="clear-btn" aria-label="Clear search"
+            style="display: none;">&times;</button>
+        </div>
+      </div>
+      <ul id="wordList" class="word-list" aria-label="لیست لغات"></ul>
+    </aside>
+
+    <section class="content">
+      <div id="detail" class="detail">
+        <div class="placeholder">لطفاً یک لغت را از لیست انتخاب کنید</div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <small>ساخته شده با ❤️ برای یادگیری بهتر</small>
+    <p>توسط پیام شفیعی</p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked@11.1.1/marked.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+  <script src="app.js"></script>
+</body>
+
+</html>
