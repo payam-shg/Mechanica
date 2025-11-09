@@ -39,7 +39,7 @@
 
 - [Node.js](https://nodejs.org/en/download) نسخه 14 یا بالاتر
 - npm یا yarn
-### 1- [دانلود](github.com/payam-shg/Mechanica/releases/tag/دانشنامه_مهندسی_مکانیک)
+### 1- [دانلود](/releases)
 
 ### 2- ساخت محلی
 
