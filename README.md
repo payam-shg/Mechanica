@@ -50,7 +50,7 @@
 1. کلون کردن مخزن:
 ```bash
 git clone https://github.com/payam-shg/Mechanica.git
-cd mech-dict
+cd Mechanica
 ```
 
 2. نصب وابستگی‌ها:
@@ -168,6 +168,7 @@ DB_WIKI_COL=wiki_url        # نام ستون ویکی
 ---
 
 ⭐ اگر این پروژه برایتان مفید بود، یک ستاره بدهید!
+
 
 
 
